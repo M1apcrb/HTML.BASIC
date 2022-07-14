@@ -33,7 +33,7 @@ Formas de Pagamento 💸<br>
 • PayPal<br>
 </h6>
 
-< weight = "10" >< healt = "10><img src=" https://www.dugordo.com.br/assistencia-tecnica/imagens/conserto-de-celular-em-1-hora.jpg " largura=" 100 " altura=" 100
+<img src="   https://www.dugordo.com.br/assistencia-tecnica/imagens/conserto-de-celular-em-1-hora.jpg   " altura="   100   " altura="   100
 <br>
 
 <button>Faça seu orçamento</button>

@@ -4,12 +4,12 @@ Estrutura de site de eletrônicos
 <!doctype html>
 <html>
 <head>
- <title></title>
- <link rel="stylesheet" href="style.css">
+ 
+ 
 </head>
 <body>
 
- <script src="script.js"></script>
+ 
 </body>
 </html>
 <h1> Power Eletronics </h1>
@@ -33,7 +33,7 @@ Formas de Pagamento 💸<br>
 • PayPal<br>
 </h6>
 
-<img src="   https://www.dugordo.com.br/assistencia-tecnica/imagens/conserto-de-celular-em-1-hora.jpg   " altura="   100   " altura="   100
+<img src="   https://www.dugordo.com.br/assistencia-tecnica/imagens/conserto-de-celular-em-1-hora.jpg   " width="   100   " height="   100
 <br>
 
 <button>Faça seu orçamento</button>

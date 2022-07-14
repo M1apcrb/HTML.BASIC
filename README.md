@@ -36,4 +36,4 @@ Formas de Pagamento 💸<br>
 <img src="https://www.dugordo.com.br/assistencia-tecnica/imagens/conserto-de-celular-em-1-hora.jpg" width="   300   " height="200">
 <br>
 
-<strong><button>Faça seu orçamento!</button></strong>
+<em><button>Faça seu orçamento!</button></em>

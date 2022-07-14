@@ -13,7 +13,7 @@ Estrutura de site de eletrônicos
 </body>
 </html>
 <h1> Power Eletronics </h1>
-<h4> Tudo que o seu celular precisa em um único lugar!</h4>
+<h4> Tudo que o seu Smartphone precisa em um único lugar!</h4>
 <h6>•Compras online segura<br>
 •Assistência técnica completa<br>
 •Acessórios para todas as ocasiões<br>
